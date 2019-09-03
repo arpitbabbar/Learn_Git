@@ -14,6 +14,6 @@ The aim of this repository is to familiarise students with Git/GitHub. Students 
 
 ## Interested Students
 
-- Name: 
-- Roll No.:
-- Interests: 
+- Name: Arpit Babbar
+- Roll No.:2018CSA1039
+- Interests: Coding and Gaming
